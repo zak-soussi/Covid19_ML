@@ -7,7 +7,7 @@ pd.set_option('display.max_row', 111)
 pd.set_option('display.max_column', 111)
 
 # Setting the Upload folder for some examples of the generated plots
-UPLOAD_FOLDER = './Visualisations'
+UPLOAD_FOLDER = './Visualisations/EDA'
 
 # Getting the dataset and determining the target column
 dataset = pd.read_excel("./dataset.xlsx")
