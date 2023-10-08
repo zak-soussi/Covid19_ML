@@ -1,9 +1,7 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
-<head>
-  <title>COVID-19 Prediction Machine Learning Model</title>
-</head>
+
 
 <body>
 
