@@ -7,7 +7,9 @@
 
   <h1>COVID-19 Prediction Machine Learning Model</h1>
 
-  <img src="https://github.com/zak-soussi/Covid19_ML/tree/main/Visualisations/corona19.jpg" alt="COVID-19 Image">
+  <img src="https://github.com/zak-soussi/Covid19_ML/assets/92606256/ee679ffb-b877-41ce-b95b-7f7ed8cc7e1c">
+  
+
 
   <h2>Overview</h2>
 
@@ -57,7 +59,8 @@ source venv/bin/activate</pre>
 
   <p>The model's performance was rigorously evaluated using recall and F1-score as the primary evaluation metrics. The final model achieved an 88% recall score and an F1-score of 51%. Further details and insights into the model's performance can be found in the Modeling script.</p>
 
-  <img src="https://github.com/zak-soussi/Covid19_ML/tree/main/Visualisations/Modeling/FinalResult.png">
+  <img src="https://github.com/zak-soussi/Covid19_ML/assets/92606256/1ed68fa7-d58e-4635-866a-231e53a9ff84">
+
 
   <h2>Exploratory Data Analysis</h2>
 
